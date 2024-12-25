@@ -6,14 +6,14 @@
   ],
   "description": "WAT!? Does this code do? A handy LLM-powered command line utility to find out.",
   "license": "Artistic-2.0",
-  "name": "WAT--CLI",
+  "name": "WAT",
   "provides": {
     "WAT::CLI": "lib/WAT/CLI.rakumod"
   },
   "resources": [],
-  "source-url"  : "git://github.com/nige123/jmp.nigelhamilton.com.git",
+  "source-url"  : "git://github.com/nige123/wat.nigelhamilton.com.git",
   "support" : {
-    "bugtracker" : "https://github.com/nige123/jmp.nigelhamilton.com/issues"
+    "bugtracker" : "https://github.com/nige123/wat.nigelhamilton.com/issues"
   },
   "tags"        : [
     "llm",
